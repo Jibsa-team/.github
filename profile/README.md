@@ -1,3 +1,24 @@
+# Balear
+
+## 📅 프로젝트 개요
+
+💵 **기간**
+
+2024.12.26 ~ 
+
+💵 **팀원 소개**
+
+<table>
+    <tr>
+        <td><img src="https://avatars.githubusercontent.com/HMWG" width="180"></td>
+        <td><img src="https://avatars.githubusercontent.com/JaeIn1" width="180"></td>
+    </tr>
+    <tr align=center>
+        <td><a href='https://github.com/HMWG'>황민우</a></td>
+        <td><a href='https://github.com/JaeIn1'>이재인</a></td>
+    </tr>
+</table>
+
 ## 컨벤션
 
 ### 📍 Git 컨벤션
