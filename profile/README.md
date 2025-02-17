@@ -171,6 +171,7 @@ Balearn은, 스터디그룹 관리 서비스입니다.
 
 
 ## 💵 채팅 페이지
+<img width="600" alt="스크린샷 2025-02-17 오후 3 48 18" src="https://github.com/user-attachments/assets/3f46bc14-6740-4c33-89d2-a8d2640fc8f2" />
 
 
 
